@@ -20,6 +20,18 @@ Usage examples could be found in tests.
 
 That's it.
 
+Dependency
+==========
+
+```xml
+<dependency>
+  <groupId>com.ostronom</groupId>
+  <artifactId>scala-ecb-parser_2.11</artifactId>
+  <version>1.0</version>
+  <type>pom</type>
+</dependency>
+```
+
 License
 =======
 
